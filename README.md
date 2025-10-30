@@ -1,4 +1,4 @@
 # transport-profil-netex-lu
-Profil Luxembourg de NeTEx
+Profil NeTEx Luxembourgeois
 
 chg by ext. collaborator
